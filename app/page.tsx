@@ -512,9 +512,9 @@ const SimpleClassyPortfolio = () => {
       <section id="contact" className="py-16 sm:py-20 px-4 sm:px-6">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl sm:text-4xl font-bold mb-6 text-gray-900">
-            Let's Work Together </h2>
+            Let&apos;s Work Together </h2>
           <p className="text-lg sm:text-xl text-gray-600 mb-12 leading-relaxed">
-            Interested in collaborating on ML projects? I'd love to hear from you.
+            Interested in collaborating on ML projects? I&apos;d love to hear from you.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button 
