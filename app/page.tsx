@@ -1,7 +1,6 @@
 "use client";
 
 import React, { useState, useEffect } from 'react';
-import { Particles } from "@/src/components/magicui/particles";
 import { BlurFade } from "@/src/components/magicui/blur-fade";
 import { TypingAnimation } from "@/src/components/magicui/typing-animation";
 
