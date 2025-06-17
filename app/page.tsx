@@ -4,8 +4,7 @@ import React, { useState, useEffect } from 'react';
 import { Particles } from "@/src/components/magicui/particles";
 import { BlurFade } from "@/src/components/magicui/blur-fade";
 import { TypingAnimation } from "@/src/components/magicui/typing-animation";
-import { ShimmerButton } from "@/src/components/magicui/shimmer-button";
-import { MagicCard } from "@/src/components/magicui/magic-card";
+
 
 
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
@@ -514,12 +513,10 @@ const SimpleClassyPortfolio = () => {
       <section id="contact" className="py-16 sm:py-20 px-4 sm:px-6">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl sm:text-4xl font-bold mb-6 text-gray-900">
-            Let's Work Together
-          </h2>
+            Let's Work Together </h2>
           <p className="text-lg sm:text-xl text-gray-600 mb-12 leading-relaxed">
             Interested in collaborating on ML projects? I'd love to hear from you.
           </p>
-          
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button 
               onClick={handleContactClick}
