@@ -544,13 +544,7 @@ const SimpleClassyPortfolio = () => {
           </p>
         </div>
       </footer>
-      <Particles
-        className="absolute inset-0 z-0"
-        quantity={0}
-        ease={80}
-        color="000000"
-        refresh
-      />
+      
 
     </div>
   );
