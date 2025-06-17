@@ -28,7 +28,6 @@ import {
   Menu,
   X
 } from 'lucide-react';
-import { color } from 'framer-motion';
 
 const SimpleClassyPortfolio = () => {
   const [scrollY, setScrollY] = useState(0);
