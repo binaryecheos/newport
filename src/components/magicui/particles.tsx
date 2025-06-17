@@ -129,17 +129,17 @@ export const Particles: React.FC<ParticlesProps> = ({
   }, [color]);
 
   useEffect(() => {
-    onMouseMove();
-  }, [mousePosition.x, mousePosition.y]);
+  animate();
+  initCanvas();
+}, [animate, initCanvas]);
 
   useEffect(() => {
-    initCanvas();
-  }, [refresh]);
+  // Some code using onMouseMove
+}, [onMouseMove]);
 
-  const initCanvas = () => {
-    resizeCanvas();
-    drawParticles();
-  };
+  useEffect(() => {
+  initCanvas();
+}, [initCanvas]);
 
   const onMouseMove = () => {
     if (canvasRef.current) {
