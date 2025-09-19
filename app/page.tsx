@@ -325,10 +325,10 @@ const SimpleClassyPortfolio = () => {
             {Object.entries(skills).map(([category, skillList]) => {
               const icons = {
                 programming: Code,
-                AI: Brain,
+                ml: Brain,
                 frameworks: Database,
                 tools: Bot,
-                MLops: GitBranch,
+                mlops: GitBranch,
                 web: Zap
               };
               const Icon = icons[category as keyof typeof icons];
