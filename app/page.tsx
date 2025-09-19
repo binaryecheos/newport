@@ -96,10 +96,10 @@ const SimpleClassyPortfolio = () => {
 
   const skills = {
     programming: ['Python', 'C++'],
-    ml: ['Data Analysis', 'Feature Engineering', 'EDA', 'Model Development'],
-    frameworks: ['Scikit-learn', 'TensorFlow', 'PyTorch', 'OpenCV', 'Flask', 'Streamlit'],
-    tools: [ 'Hugging Face', 'LangChain', 'Kaggle'],
-    devops: ['Git', 'CI/CD'],
+    Tech: ['Supervised Learning algos', 'Unsupervised Learning algos', 'Deep Learning', 'Reinforcement Learning', 'Agentic AI'],
+    frameworks: [ 'FastAPI', 'Scikit-learn', 'TensorFlow', 'PyTorch', 'OpenCV', 'Flask', 'Streamlit'],
+    tools: [ 'Airflow','Hugging Face', 'LangGraph', 'Kaggle', 'Weights & Biases'],
+    MLops: ['Git', 'CI/CD', 'Docker', 'Kubernetes', 'mlflow', 'zenml'],
     web: ['REST APIs', 'Web Scraping', 'Static Web Development']
   };
 
