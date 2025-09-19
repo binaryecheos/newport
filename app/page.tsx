@@ -96,7 +96,7 @@ const SimpleClassyPortfolio = () => {
 
   const skills = {
     programming: ['Python', 'C++'],
-    Tech: ['Supervised Learning algos', 'Unsupervised Learning algos', 'Deep Learning', 'Reinforcement Learning', 'Agentic AI'],
+    AI: ['Supervised Learning algos', 'Unsupervised Learning algos', 'Deep Learning', 'Reinforcement Learning', 'Agentic AI'],
     frameworks: [ 'FastAPI', 'Scikit-learn', 'TensorFlow', 'PyTorch', 'OpenCV', 'Flask', 'Streamlit'],
     tools: [ 'Airflow','Hugging Face', 'LangGraph', 'Kaggle', 'Weights & Biases'],
     MLops: ['Git', 'CI/CD', 'Docker', 'Kubernetes', 'mlflow', 'zenml'],
@@ -325,10 +325,10 @@ const SimpleClassyPortfolio = () => {
             {Object.entries(skills).map(([category, skillList]) => {
               const icons = {
                 programming: Code,
-                ml: Brain,
+                AI: Brain,
                 frameworks: Database,
                 tools: Bot,
-                devops: GitBranch,
+                MLops: GitBranch,
                 web: Zap
               };
               const Icon = icons[category as keyof typeof icons];
