@@ -127,6 +127,14 @@ const SimpleClassyPortfolio = () => {
       category: 'Web App',
       demoUrl: '#',
       githubUrl: 'https://github.com/binaryecheos/HackIndia-Spark-9-2025-SolArise'
+    },
+    {
+      title: 'Dynamic Bus Service Rationalization System',
+      description: 'This project implements a comprehensive framework for dynamic bus service rationalization designed to combat bus bunching and improve headway regularity in urban transit systems. The implementation is based on the research document "A Framework for Dynamic Bus Service Rationalization: A Phased Machine Learning Approach to Anti-Bunching and Headway Regularity',
+      tech: ['Reinforcement Learning', 'XGBoost', 'OTD', 'Flask', 'MLOps'],
+      category: 'Web App',
+      demoUrl: '#',
+      githubUrl: 'https://github.com/binaryecheos/dtc-route-rationalization'
     }
   ];
 
