@@ -135,6 +135,14 @@ const SimpleClassyPortfolio = () => {
       category: 'Web App',
       demoUrl: '#',
       githubUrl: 'https://github.com/binaryecheos/dtc-route-rationalization'
+    },
+    {
+      title: 'Healthetico',
+      description: 'The AI-Powered Personal Health Companion is an advanced healthcare assistant platform that empowers users to manage their health proactively using state-of-the-art AI, symptom checking, and biometric data analysis. By integrating symptom NLP, health data, and real-time doctor connection, it enables timely medical insights and improves access to qualified care—especially critical for remote and underserved populations.',
+      tech: ['NLP', 'DL', 'Gen AI', 'Nextjs'],
+      category: 'Web App',
+      demoUrl: '#',
+      githubUrl: 'https://github.com/binaryecheos/SU-NATIONAL-HACKATHON'
     }
   ];
 
@@ -145,13 +153,23 @@ const SimpleClassyPortfolio = () => {
       type: 'Competition'
     },
     {
-      title: 'Intro to Machine Learning Certificate',
-      organization: 'Kaggle',
+      title: 'Deep Learning | Illinois Tech',
+      organization: 'Coursera',
       type: 'Certification'
     },
     {
       title: 'HackIndia Spark 9 Participant',
       organization: 'Hackindia Group & Codex Club',
+      type: 'Hackathon'
+    },
+    {
+      title: 'Exploratory Data Analysis for Machine Learning ',
+      organization: 'IBM',
+      type: 'Certificate'
+    },
+    {
+      title: 'National Level Hackathon Final Round',
+      organization: 'Shivalik College, Dehradun',
       type: 'Hackathon'
     }
   ];
