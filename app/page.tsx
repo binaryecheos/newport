@@ -273,7 +273,7 @@ const SimpleClassyPortfolio = () => {
               duration={20}
               className="text-lg text-gray-400 font-light"
             >
-              speedrunning ML math and feeding my brain data 24/7. Algorithms? EZ clap. DSA? Light work. Out here chasing that “aha!” moment, stacking skills, and always rezzing after Ls. Main quest: get smarter, build cool stuff, flex on my past self. If you see me glitching, I’m just upgrading. IRL fight: never-ending—let’s cook. 🚀👾
+              speedrunning ML math and feeding my brain data 24/7. Algorithms? EZ clap. DSA? Light work. Out here chasing that “brain ping” moment, stacking skills, and always rezzing after Ls. Main quest: get smarter, build cool stuff, flex on my past self. If you see me glitching, I’m just upgrading. IRL fight: never-ending—let’s cook. 🚀👾
             </TypingAnimation>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mb-8 text-sm">
