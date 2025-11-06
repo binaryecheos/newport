@@ -273,21 +273,21 @@ const SimpleClassyPortfolio = () => {
               duration={20}
               className="text-lg text-gray-400 font-light"
             >
-              just jumping into the deep end of tech, fresh from wrapping up intermediate Machine Learning and now messing with Neural Networks. I’m getting cozy with the basics—think sorting data, playing with models, and cracking the math behind it. I’m pumped to keep leveling up, maybe tackling deep learning or some slick projects down the road, but right now, I’m just stoked to be learning and building cool stuff!
+              speedrunning ML math and feeding my brain data 24/7. Algorithms? EZ clap. DSA? Light work. Out here chasing that “aha!” moment, stacking skills, and always rezzing after Ls. Main quest: get smarter, build cool stuff, flex on my past self. If you see me glitching, I’m just upgrading. IRL fight: never-ending—let’s cook. 🚀👾
             </TypingAnimation>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mb-8 text-sm">
             <div className="bg-gray-50 rounded-lg p-4">
               <div className="font-semibold text-gray-900 mb-1">Current Focus</div>
-              <div className="text-gray-600">LLMs, Transformers & Multi-Modal</div>
+              <div className="text-gray-600">Small Language Modals (SLMs)</div>
             </div>
             <div className="bg-gray-50 rounded-lg p-4">
               <div className="font-semibold text-gray-900 mb-1">Specialization</div>
-              <div className="text-gray-600">RLHF & Evaluation Systems</div>
+              <div className="text-gray-600">Applied ML, Deployment</div>
             </div>
             <div className="bg-gray-50 rounded-lg p-4 sm:col-span-2 lg:col-span-1">
               <div className="font-semibold text-gray-900 mb-1">Research Areas</div>
-              <div className="text-gray-600">Model Alignment & Safety</div>
+              <div className="text-gray-600">Model Efficiency, Alignment</div>
             </div>
           </div>
 
