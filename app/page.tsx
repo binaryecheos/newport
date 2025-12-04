@@ -475,8 +475,8 @@ const SimpleClassyPortfolio = () => {
                       <GraduationCap className="w-6 h-6 text-gray-700" />
                     </div>
                     <div className="flex-1">
-                      <CardTitle className="text-gray-900 text-lg">Quantum University</CardTitle>
-                      <CardDescription className="text-gray-600">B.Tech in CSE (AI & ML)</CardDescription>
+                      <CardTitle className="text-gray-900 text-lg">Tier 3 University</CardTitle>
+                      <CardDescription className="text-gray-600">B.Tech in CSE AIML</CardDescription>
                     </div>
                   </div>
                 </CardHeader>
@@ -496,8 +496,8 @@ const SimpleClassyPortfolio = () => {
                       <Briefcase className="w-6 h-6 text-gray-700" />
                     </div>
                     <div className="flex-1">
-                      <CardTitle className="text-gray-900 text-lg">UtsavAI</CardTitle>
-                      <CardDescription className="text-gray-600">Intern</CardDescription>
+                      <CardTitle className="text-gray-900 text-lg">QU</CardTitle>
+                      <CardDescription className="text-gray-600">Product Engineer Intern</CardDescription>
                     </div>
                   </div>
                 </CardHeader>
